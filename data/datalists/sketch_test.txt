@@ -1,0 +1,4 @@
+/home/user/data/images/PACS/kfold/art_painting/dog/pic_001.jpg 0
+/home/user/data/images/PACS/kfold/art_painting/dog/pic_002.jpg 0
+/home/user/data/images/PACS/kfold/art_painting/dog/pic_003.jpg 0
+...
